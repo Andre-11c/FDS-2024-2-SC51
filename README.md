@@ -21,5 +21,19 @@ metodología CRISP-DM, y teniendo las siguientes consideraciones:</p>
 del equipo de trabajo durante el proceso de desarrollo de un proyecto de analítica, lo cual
 permite la adaptación a los cambios de los requisitos, diseño y otros factores.</p>
 <h2>Nombre los alumnos participantes</h2>
+
+<p>Intregantes del equipo:</p>
+- U202316342 - Edson Fabrizio Vásquez Trujillano
+- U202220230 - Andre Angel Chipana Rios
+- U202220177 - Enzo Daniel Medina Oropeza
+
+
 <h2>Descripción del conjunto de datos</h2>
+
+<p>El conjunto de datos ha utilizar en el análisis proviene de un dataset denominado como “Trending YouTube Video Statistics”, o, en español, “Tendencias de las estadísticas de videos de YouTube”, creado por el usuario “Mitchell J” y publicado en el sitio web “kaggle” en 2019. Esta base de datos de dominio público recopila los datos que comúnmente utiliza Youtube para actualizar los primeros puestos de la lista de vídeos en tendencia en su propia plataforma.</p>
+
+<p>Teniendo en cuenta esta base de datos, se realizó una extracción de una sección de esta misma, correspondiente al país Francia, y se procedió a añadir columnas/variables de interés correspondientes al lugar de origen del video (“state”, “lat”, “lon”, “geometry”). De esta forma, se dió como resultado el conjunto de datos que se utilizará en el análisis propuesto por este trabajo.</p>
+
 <h2>Conclusiones</h2>
+
+
