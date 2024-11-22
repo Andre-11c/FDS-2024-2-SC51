@@ -24,8 +24,11 @@ permite la adaptación a los cambios de los requisitos, diseño y otros factores
 
 <p>Intregantes del equipo:</p>
 - U202316342 - Edson Fabrizio Vásquez Trujillano
+<br>
 - U202220230 - Andre Angel Chipana Rios
+<br>
 - U202220177 - Enzo Daniel Medina Oropeza
+<br>
 
 
 <h2>Descripción del conjunto de datos</h2>
@@ -35,5 +38,4 @@ permite la adaptación a los cambios de los requisitos, diseño y otros factores
 <p>Teniendo en cuenta esta base de datos, se realizó una extracción de una sección de esta misma, correspondiente al país Francia, y se procedió a añadir columnas/variables de interés correspondientes al lugar de origen del video (“state”, “lat”, “lon”, “geometry”). De esta forma, se dió como resultado el conjunto de datos que se utilizará en el análisis propuesto por este trabajo.</p>
 
 <h2>Conclusiones</h2>
-
 
