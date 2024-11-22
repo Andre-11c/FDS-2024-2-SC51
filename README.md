@@ -39,3 +39,16 @@ permite la adaptación a los cambios de los requisitos, diseño y otros factores
 
 <h2>Conclusiones</h2>
 
+<p>Comprender el objetivo del proyecto y los requerimientos del cliente permite establecer una dirección en el desarrollo del proyecto, sobre qué datos serán importantes en los modelos a desarrollar y, por ende, qué datos se deberán preprocesar.</p>
+<p>El preprocesamiento de datos es necesario. Por un lado, algunas acciones permiten que los datos sean mucho más fáciles de procesar en los modelos, como es el caso de transformar un tipo de dato a otro o la creación de nuevas variables. Por otro lado, otras acciones permiten que la visualización final de los datos sea mucho más clara y perceptible visualmente, como el caso con los métodos de escalado, normalización y transformación.</p>
+<p>Sobre los resultados obtenidos del proyecto, hemos podido generar las siguientes respuestas:</p>
+- La categoría “Entertainment” (Entretenimiento) lidera como la categoría con más videos en tendencia en Francia.<br>
+- La categoría que posee más “me gusta” es “Music” (música), mientras que la que posee menos es “Trailers” (trailers).<br>
+- La categoría con mayor ratio de “likes” sobre “dislikes” es “Nonprofits & Activism” (Activismo).<br>
+- La categoría con mayor ratio de “views” sobre “comment_count” es “Auto & Vehicle” (Autos y vehículos).<br>
+- El volumen de videos en tendencia se mantiene relativamente estable a lo largo del tiempo, con pequeñas fluctuaciones en algunos períodos específicos.<br>
+- “Nonprofits & Activism” es la categoría que recibe más comentarios positivos.<br>
+- Se determina que es factible realizar predicciones de la base de datos.<br>
+
+<h2>Colab Laboratory</h2>
+https://colab.research.google.com/drive/1EFs3wiD8G9n33RUlUSpJSwl_2zZ_iaF-?usp=sharing
